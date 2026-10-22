@@ -1,0 +1,22 @@
+{
+  "profiles": {
+    "DiemDanh_TranHoangCongDang_2380614670_API": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "launchUrl": "",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "http://localhost:5080;http://0.0.0.0:5080"
+    },
+    "http": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "launchUrl": "",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "http://localhost:5080;http://0.0.0.0:5080"
+    }
+  }
+}
